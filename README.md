@@ -1,4 +1,4 @@
-## 停用！使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议
+## 声明一下！本项目为https://github.com/Lbingyi/Heroku-Xray的Heroku项目修改，感谢Lbingyi的付出！
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
